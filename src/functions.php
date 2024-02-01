@@ -14,7 +14,7 @@ function toLowerCase($text){
 function countLetters($text){
     return strlen($text);
 }
-//probando probando 
+//probando probando probando 
 
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['action'])) {
     $text = $_POST['text'];
