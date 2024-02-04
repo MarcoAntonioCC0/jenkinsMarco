@@ -36,7 +36,7 @@ final class StringUtilsTest extends TestCase {
                                 //$expected es el parametro inicial, $actual es el parámetro convertido
     public static function reverseStringDataProvider() {
         return [
-            ['hola', 'aloh'],
+            ['hola', 'alo'],
         ];
     }
 
